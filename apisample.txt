@@ -1,0 +1,10 @@
+New Account :
+http://racksx.bimasoft.web.id:2030/api/?key=123456asdzxcewqytr&api=account_new&domain=domain&username=username&password=password&package=1&email=client@email.com&inode=10000&nofile=100&nproc=25
+
+http://racksx.bimasoft.web.id:2030/api/?key=123456asdzxcewqytr&api=account_remove&username=username
+
+http://racksx.bimasoft.web.id:2030/api/?key=123456asdzxcewqytr&api=account_suspend&username=username
+
+http://racksx.bimasoft.web.id:2030/api/?key=123456asdzxcewqytr&api=account_unsuspend&username=username
+
+
